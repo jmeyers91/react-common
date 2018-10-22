@@ -23,5 +23,9 @@
     "install": "^0.12.2",
     "npm": "^6.4.1",
     "then-fs": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeyers91/react-common.git"
   }
 }
